@@ -1,0 +1,44 @@
+body
+{
+	background-color : pink 
+
+}
+
+p
+{
+	background-color : seashell;
+	font-family: 'Langar', cursive;
+	font-size :40px;
+	color :black;
+}
+h1
+{
+	background-color : blue;
+	font-family: 'Langar', cursive;
+	font-size:40px;
+	color:red;
+}
+h2
+{
+	background-color :yellow;
+	font-family: 'Langar', cursive;
+	font-size:40px;
+	color: white;
+}
+
+a:link, a:visited	
+	{
+	background-color: :none;
+	color :red;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 8px;
+	}
+	a: hover, a:active
+	{
+	background-color: : lightgrey;
+	color: white
+	}
+
+	
